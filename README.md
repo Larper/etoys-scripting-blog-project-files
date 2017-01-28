@@ -14,7 +14,7 @@ Some documentation.
 
 simpleTimer.004.pr
 
-Concepts demontrated: Using Script Editor ticking status to create a very timer.
+Concepts demontrated: Using Script Editor ticking status to create a basic timer.
 
 someMouseEvents.003.pr
 
