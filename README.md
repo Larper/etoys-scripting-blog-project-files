@@ -1,5 +1,8 @@
 # etoys-scripting-blog-project-files
-Project files require the Squeak Etoys Application to run. Etoys is availabe for download at www.squeakland.org and is licensed under the MIT License with parts under the Apache License. See download page for details. To download projects click on releases in GitHub to get latest release. Original project files contained in this release may be shared, copied or modified. Any projects that require accreditation to an author or authors will be noted in this file. 
+
+Project files require the Squeak Etoys Application to run. Etoys is availabe for download at www.squeakland.org and is licensed under the MIT License with parts under the Apache License. See download page for details. To download projects click on releases in GitHub to get latest release. Original project files contained in this release may be shared, copied or modified. Any projects that require attribution to an author or authors will be noted in this file. 
+Project files require the Squeak Etoys Application to run. Etoys is availabe for download at www.squeakland.org and is licensed under the MIT License with parts under the Apache License. See download page for details. To download projects click on releases in GitHub to get latest release. Original project files contained in this release may be shared, copied or modified. Any projects that require attribution to an author or authors will be noted in this file. 
+
 
 Project List:
 
