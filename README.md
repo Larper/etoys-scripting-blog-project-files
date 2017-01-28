@@ -3,15 +3,19 @@ Project files require the Squeak Etoys Application to run. Etoys is availabe for
 
 Project List:
 
-countandremovestars.007.pr 
+countandremovestars.007.pr
+
 Concepts demonstrated: Dynamically creating objects, linking objects in a list and remove last object from list.
 
 numberArrayMorph.030.pr
+
 Concepts demonstrated: Dynamically creating numerical arrays, building a user interface and creating forms to capture user input.
 Some documentation.
 
 simpleTimer.004.pr
+
 Concepts demontrated: Using Script Editor ticking status to create a very timer.
 
 someMouseEvents.003.pr
+
 Concepts demonstrated: Setting Script Editor status to handle mouse events.
